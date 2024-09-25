@@ -7,6 +7,7 @@ My name is Anxo Boquete Otero, I`m 20 years old and I live in Santiago de Compos
 
 ## My personal hero
 ![foto](images.jpg)
+
 [Oscar Garcia](https://www.tiktok.com/@oscargarcia_full/video/7379878354196892960)
 
 My personal hero is Oscar García, a galician influencer who makes funny tiktoks in our language.
