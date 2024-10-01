@@ -1,5 +1,5 @@
 # My  Presentation
-
+![yo](yo.jpg)
 My name is Anxo Boquete Otero, I`m 20 years old and I live in Santiago de Compostela.
 
 ## A experience you really proud of
@@ -12,7 +12,7 @@ My name is Anxo Boquete Otero, I`m 20 years old and I live in Santiago de Compos
 
 My personal hero is Oscar García, a galician influencer who makes funny tiktoks in our language.
 
-`se non queres vir desbrozar, non veñas a desbrozar`
+`se non queres vir desbrozar, non veñas desbrozar`
 
 ## The worst food of the world
 
@@ -20,7 +20,7 @@ The worst food of the world is the **broccoli**, I hate both the smell and the t
 
 ## The three more useful/entertaining apps
 1. *Tiktok*: You can stay watching videos for hours if you want because there`re so interesting 
-2. *Netflix*: 
+2. *Netflix*: I am a very cinephile and I love watch movies or films at my hause, Netflix is ​​what I normally use to watch movies. 
 3. *Youtube*:
 
 ## The best gift you have ever received/given

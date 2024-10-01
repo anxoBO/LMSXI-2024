@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trip>
+    <traveller id="Anxo">
+        <name>Anxo</name>
+        <surname>Boquete</surname>
+    </traveller>
+
+    <traveller id="Mickey">
+        <name>Mickey</name>
+        <surname>Mouse</surname>
+    </traveller>
+
+    <traveller id="Donald">
+        <name>Pato</name>
+        <surname>Donald</surname>
+    </traveller>
+
+    <begin-date>13-9-2024</begin-date>
+    <end-date>4-11-2024</end-date>
+
+    <place-departure>Hospitalet</place-departure>
+
+    
+    <destination name="Colombia">
+        <city id="1">
+            <name>Bogotá</name>
+            <hotel>Spotty Bogotá Centro</hotel>
+            <nights>5</nights>
+        </city>
+        <city id="2">
+            <name>Medellín</name>
+            <hotel>Urbit Social Lofts</hotel>
+            <nights>3</nights>
+        </city>
+    </destination>
+
+    <price>1400€</price>
+
+</trip>
