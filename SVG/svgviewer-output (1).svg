@@ -1,0 +1,11 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#70CEAF" />
+
+  <circle cx="200" cy="150" r="135" fill="none" stroke="#0E532F" stroke-width="21"/>
+
+  <circle cx="200" cy="150" r="70" fill="none" stroke="#0E532F" stroke-width="23"/>
+
+  <rect x="130" y="50" width="138" height="25" fill="#0E532F" />
+
+  <rect x="130" y="220" width="138" height="25" fill="#0E532F" />
+</svg>
