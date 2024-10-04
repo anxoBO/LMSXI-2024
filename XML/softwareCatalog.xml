@@ -13,6 +13,7 @@
         <office:url>https://www.UbuntuTerminador.com</office:url>
         <office:developer>ubuntu jechuun ni danda'ama</office:developer>
     </office:sofware>
+    
     <os:sofware id="3">
         <os:name>impermeable</os:name>
         <os:version>10.15.7</os:version>
