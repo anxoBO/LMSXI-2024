@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns:os="https://www.softwaresBoquete/System" xmlns:office="www.https://softwaresBoquete/Office">
+    
+    <office:sofware id="1">
+        <office:name>Palabra</office:name>
+        <office:version>11.10.21</office:version>
+        <office:url>https://www.palabraDePuertasBill.com</office:url>
+        <office:developer>Puertas Bill</office:developer>
+    </office:sofware>
+    <office:sofware id="2">
+        <office:name>terminador</office:name>
+        <office:version>17</office:version>
+        <office:url>https://www.UbuntuTerminador.com</office:url>
+        <office:developer>ubuntu jechuun ni danda'ama</office:developer>
+    </office:sofware>
+    <os:sofware id="3">
+        <os:name>impermeable</os:name>
+        <os:version>10.15.7</os:version>
+        <os:url>https://www.impermeablesDeEstevanElTrabajador.es</os:url>
+        <office:developer>Estevan el Trabajador</office:developer>
+    </os:sofware>
+    <os:sofware id="4">
+        <os:name>Linux</os:name>
+        <os:version>18.20.7</os:version>
+        <os:url>https://www.LucasTobiasSoftware.es</os:url>
+        <os:developer>Lucas Tobías</os:developer>
+    </os:sofware>
+
+</catalog>

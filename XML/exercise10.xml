@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mm xmlns:a="http://www.rr.org" xmlns="http://www.ss.org">
+    <a:nn> <!--nn pertenece todo a www.rr.org-->
+        <pp xmlns="http://www.tt.org" xmlns:b="http://www.uu.org"><!--pp pertenece todo a www.tt.org-->
+            <b:oo>Hello</b:oo> <!-- oo pertenete a www.uu.org-->
+        </pp>
+
+        <c:qq xmlns="http://www.vv.org" xmlns:c="http://www.ww.org"><!-- pertenece a www.vv.org-->
+            <rr>Good bye</rr> <!-- pertenece a www.vv.org-->
+        </c:qq>
+    </a:nn>
+</mm>
