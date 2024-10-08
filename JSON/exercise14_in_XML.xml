@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+    <language>
+        <name>Java</name>
+        <creation_year>1995</creation_year>
+        <compiled>true</compiled>
+        <authors>
+            <author id="1">Sun Microsystems</author>
+            <author id="2">Oracle Corporation</author>
+        </authors>
+    </language>
+</languages>

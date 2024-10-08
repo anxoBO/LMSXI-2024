@@ -1,0 +1,15 @@
+{
+    "language":{
+        "name":"Java",
+        "creation year":1995,
+        "compiled":true,
+        "author":[
+            {
+                "name":"Sun Microsystems"
+            },
+            {
+                "name":"Oracle Corporation"
+            }
+        ]
+    }
+}

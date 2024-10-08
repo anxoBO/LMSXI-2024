@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<isc xmlns="http://www.iessanclemente.net/ns/names" xmlns:xmldb="http://www.iessanclemente.net/ns/xmldb" date="25-09-2023" xmldb:date="26-09-2023">
+    <!-- isc pertence a xmlns, date non pertence a ningún e xmldb:date pertence a xmlns:xmldb-->
+
+    <date>26/09/2023</date> <!-- pertenece a xmlns-->
+    <principal>Víctor Lourido Estévez</principal><!--pertence a xmlns -->
+
+</isc>
