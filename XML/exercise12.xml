@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<employeeRecord xmlns:e="http://www.teletienda.com/employee" xmlns:p="http://www.teletienda.com/publication">
+    
+    <e:employee>
+        <e:name>Erik T. Ray</e:name>
+        <e:title>Mr.</e:title>
+        <e:publications>
+            <p:book>
+                <p:title>Learning XML</p:title>
+                <p:description>This second edition of the bestselling Learning XML
+                     provides web developers with a concise but grounded 
+                     understanding of XML</p:description>
+            </p:book>
+        </e:publications>
+    </e:employee>
+</employeeRecord>
