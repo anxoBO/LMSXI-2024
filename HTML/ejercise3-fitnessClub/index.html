@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"/>
+    <title>Fitness Club</title>
+</head>
+<body>
+    <h1>Welcome to the 24x7 Compostela Fitness Club: Courts Reservation Page!!</h1>
+    <img src="planification.png" alt="planification photo" width="300" height="300">
+
+    <form action="nothing.php" method="post">
+        <fieldset>
+            <legend>Member Demographics</legend>
+
+            <label for="Name">Name:</label>
+            <input type="text" name="Name" id="Name">
+
+            <p>Are you a Member?</p>
+
+            <input type="radio" name="membership" id="Member" value="Member">
+            <label for="Member">Member</label>
+            
+            <input type="radio" name="membership" id="non" value="Non-member">
+            <label for="non">Non-Member</label>
+            
+            <br><br>
+            
+            <label for="email">Email</label>
+            <input type="email" name="email" id="email">
+        </fieldset>
+
+        <br>
+
+        <label for="facility">Facility</label>
+        <select name="facility" id="facility">
+            <option value="indoor-football">Indoor football</option>
+            <option value="badminton">Badminton</option>
+            <option value="squash">Squash</option>
+            <option value="racquetball">Racquetball</option>
+            <option value="basketball">Basketball</option>
+        </select>
+
+        <br><br>
+
+        <label for="date">Select a reservation date and time:</label>
+        <br><br>
+        <input type="date" name="date" id="date">
+        <input type="time" name="time" id="time">
+        
+        <br><br>
+
+        <input type="checkbox" name="agree" id="agree">
+        <label for="agree">I agree to the club's reservation policy</label>
+        
+        <br><br>
+        
+        <input type="submit" value="Submit">
+        
+    </form>
+</body>
+</html>
