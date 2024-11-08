@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donut</title>
+    <style>
+     html {
+            background-color: #62306D;
+            font-family: sans-serif;
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        header {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            color: #F7EC7D;
+            background-color: #62306D;
+            height: 300px;
+        }
+
+        .header-content {
+            display: flex;
+            align-items: center; 
+        }
+
+        header h1 {
+            font-size: 3em;
+            font-weight: bold;
+            margin: 0;
+        }
+
+        header h2 {
+            font-size: 1.2em;
+            font-weight: normal;
+            margin: 10px 0 20px;
+        }
+
+        #logo {
+            position: absolute;
+            width: 400px;
+            height: 300px;
+            top: 0;
+            left: 0;
+        }
+        
+        #c {
+            position: absolute;
+            width: 200px;
+            height: 200px;
+            background: #F7EC7D;
+            border-radius: 100%;
+            top: 50px;
+            left: 100px;
+        }
+
+       
+        #b {
+            position: absolute;
+            background: #62306D;
+            width: 120px;
+            height: 120px;
+            top: 90px;
+            left: 140px;
+            border-radius: 100%;
+        }
+
+        #a {
+            position: absolute;
+            width: 100px;
+            height: 100px;
+            background: #E38F66;
+            top: 50px;
+            left: 100px;
+            border-radius: 100% 0 0 0;
+        }
+        main {
+            background-image: url(./img/donuts.png);
+            background-size: 200px 200px; 
+            background-repeat: repeat;
+            width: 100%;
+            height: 580px;
+        }
+
+        footer {
+            color: #F7EC7D;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div id="logo">
+                <div id="c"></div> 
+                <div id="a"></div>
+                <div id="b"></div>
+            </div>
+           
+            <div>
+                <h1>Donut</h1>
+                <h2>A donut is a small, circular cake, fried in hot fat, either with a hole in the middle or filled with jam.</h2>
+            </div>
+        </div>
+    </header>
+    <main>
+
+    </main>
+    <footer>
+        <p>&copy;2024</p>
+    </footer>
+</body>
+</html>
