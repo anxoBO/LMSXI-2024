@@ -1,0 +1,99 @@
+/* Style the HTML elements according to the following instructions. 
+DO NOT ALTER THE EXISTING HTML TO DO THIS.  WRITE ONLY CSS!*/
+
+/* Give the <body> element a background of #d0d3d4*/
+body{
+    background:  #d0d3d4;
+}
+
+/* Make the <h1> element #cd6155*/
+h1{
+    color: #cd6155;
+}
+
+/* Make all <h2> elements IndianRed */
+h2{
+    color: indianred;
+}
+
+/* Make all text inside li tags salmon*/ 
+li{
+    color: salmon;
+}
+
+/*Change the background on every paragraph to be #8073fa*/
+p{
+    background-color:  #8073fa;
+}
+
+/*Make all inputs have a 3px color #73fa80 border*/
+input{
+    border: solid 3px #73fa80;
+}
+
+/* Give everything with the class 'first' a salmon background*/
+
+.first{
+    background: salmon;
+}
+/* Give the element with id 'special' a 4px solid color rgb(115,250,128) border*/
+#special{
+    border: 4px solid rgb(115,250,128);
+}
+
+/*Make all the <p>'s that are nested inside of divs 25px font(font-size: 25px)*/
+div p{
+    font-size: 25px;
+}
+
+/*Make only inputs with type 'text' have a salmon background*/
+input[type="text"]{
+background: salmon;
+}
+
+/* Give both <p>'s inside the 3rd <div> a #73fa80 color*/
+div:nth-of-type(3) p {
+    color: #73fa80;
+}
+
+/* Give the 2nd <p> inside the 3rd <div> a 5px salmon border*/
+div:nth-of-type(3) p:nth-of-type(2) {
+    border: 5px solid salmon;
+}
+
+/* Make the <em> in the 3rd <div> element salmon and 20px font(font-size:20px)*/
+div:nth-of-type(3) em{
+    font-size: 20px;
+    color: salmon;
+}
+
+/*You may need to research some other selectors and properties*/
+
+/*Make all "checked" checkboxes have a left margin of 50px(margin-left: 50px)*/
+input[type="checkbox"]:checked {
+    margin-left: 50px;
+}
+
+
+/* Make the <label> elements all UPPERCASE without changing the HTML*/
+label{
+    text-transform: uppercase;
+}
+
+/*Make the first letter of the element with id 'special' #73FA80 color and 100px font size(font-size: 100)*/
+#special::first-letter{
+    font-size: 100px;
+    color: #73FA80;
+}
+
+
+/*Make the <h1> element's color change to #8073FA color when hovered over */
+h1:hover{
+    color:#8073FA;
+}
+
+/*Make the <a> element's that have been visited salmon */
+a:visited{
+    color: salmon;
+}
+
