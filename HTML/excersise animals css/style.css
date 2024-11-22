@@ -2,7 +2,8 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Arial, sans-serif;
+    font-family: 'Lexend', sans-serif;
+    color: black;
 }
 
 body {
@@ -21,6 +22,7 @@ header {
     justify-content: left;
     align-items: center;
     top: 0px;
+    
 }
 
 header ul{
@@ -36,12 +38,14 @@ header ul li {
     display: inline;
 }
 
-
-
 header ul li a {
     text-decoration: none;
-    color: black;
     font-size: 18px;
+    color: black;
+}
+
+header ul li a:visited{
+    color: cornflowerblue;
 }
 
 main {
@@ -50,6 +54,7 @@ main {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-family: 'Lexend', sans-serif;
 }
 
 section{
@@ -57,7 +62,7 @@ section{
     border-radius: 10px;
     text-align: center;
     padding: 20px;
-    width: 50%;
+    width: 600px;
     height: 50%;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
@@ -101,6 +106,10 @@ a{
     text-decoration: none;
 }
 
+p{
+    padding: 20px;
+}
+
 main {
     flex: 1;
     width: 100%;
@@ -112,7 +121,7 @@ main {
 
 .image-section {
     padding: 0; 
-    width: 100%;
+    width: 2600px;
     height: 70vh; 
     background-image: url(./IMG/banner1.png); 
     background-size: cover;
