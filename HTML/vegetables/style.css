@@ -4,6 +4,10 @@
         font-family: "Young Serif", serif;
     }
 
+    footer{
+        display: flex;
+    }
+
     header img, footer img {
         width: 100%;  
         height: auto; 
