@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE booklist [
+    <!ELEMENT booklist (book)+>
+    <!ELEMENT book (bookname*,author+,price?,homepage)>
+    <!ELEMENT bookname (#PCDATA)>
+    <!ELEMENT author (#PCDATA)>
+    <!ELEMENT price (#PCDATA)>
+    <!ELEMENT homepage (#PCDATA)>
+]>
+
+<booklist>
+    <book>
+        <bookname>The Lord of the rings</bookname>
+        <author>J.R.R Tolkien</author>
+        <price>19.99</price>
+        <homepage>amazon.es</homepage>
+    </book>
+    <book>
+        <bookname>Teo va al cole</bookname>
+        <author>Carlota Goyta</author>
+        <author>Asunción Esteban</author>
+        <homepage>casadellibro.com</homepage>
+    </book>
+</booklist>
