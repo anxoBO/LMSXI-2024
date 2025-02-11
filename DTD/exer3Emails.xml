@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE message SYSTEM "emails.dtd">
+
+<message>
+   <from>calientaabuelas12@gmail.com</from>
+   <to>papichulo14@gmail.com</to>
+   <to>chicoguapeton@edu.xunta.gal</to>
+   <subject>Maria a 3km de ti te quiere conocer</subject>
+   <attachment>D:\photos\phishing.jpg</attachment>
+   <attachment>D:\docs\letter.odt</attachment>
+   <attachment>D:\fotos\dinner.jpg</attachment>
+</message>

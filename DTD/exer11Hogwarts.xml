@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hogwarts SYSTEM "hogwarts.dtd">
+<hogwarts>
+    <rooms>
+     <room name="The_Dungeon" nrSeats="34" />
+     <room name="The_Cabin" nrSeats="163" />
+    </rooms>
+    <teachers>
+     <teacher name="Snape" room="The_Dungeon" >
+      <title>Professor</title>
+     </teacher>
+     <teacher name="Hagrid" room="The_Cabin" />
+    </teachers>
+    <courses>
+     <course name="Potioncraft" teacher="Snape" nrStudents="28">
+      <class day="Monday" hour="10" />
+     </course>
+     <course name="Handling_of_Wild_Creatures" teacher="Hagrid">
+      <class day="Saturday" hour="13" />
+      <class day="Thursday" hour="7" />
+     </course>
+    </courses>
+</hogwarts>
