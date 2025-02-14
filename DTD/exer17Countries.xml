@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE countries [
+  <!ELEMENT countries (country*)>
+  <!ELEMENT country (area, currency+, government, borders)>
+  <!ATTLIST country name ID #REQUIRED>
+  <!ELEMENT area (#PCDATA)>
+  <!ATTLIST area unit NMTOKEN #REQUIRED>
+  <!ELEMENT currency (#PCDATA)>
+  <!ELEMENT government EMPTY>
+  <!ATTLIST government system NMTOKEN #IMPLIED>
+  <!ELEMENT borders EMPTY>
+  <!ATTLIST borders country IDREFS #IMPLIED>
+]>
+<countries>
+    <country name="Spain">
+        <area unit="KM2">506030</area>
+        <currency>euro</currency>
+        <currency>peseta</currency>
+        <government system="monarchy"/>
+        <borders country="Portugal France England"/>
+    </country>
+    <country name="Portugal">
+        <area unit="KM2">92161</area>
+        <currency>euro</currency>
+        <government system="republic"/>
+        <borders country="Spain"/>
+    </country>
+    <country name="France">
+        <area unit="KM2">551685</area>
+        <currency>euro</currency>
+        <currency>franc</currency>
+        <government system="republic"/>
+        <borders country="Spain"/>
+    </country>
+    <country name="England">
+        <area unit="KM2">130279</area>
+        <currency>pound</currency>
+        <government system="monarchy"/>
+        <borders country="Spain"/>
+    </country>
+    <country name="Japan">
+        <area unit="KM2">378000</area>
+        <currency>Yen</currency>
+        <government system="monarchy"/>
+        <borders />
+    </country>
+</countries>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE computer_shop [
+<!ELEMENT computer_shop (products, customers?, sales?)>
+
+
+<!ELEMENT products (product+)>
+<!ELEMENT product (title, (manufacturer | brand), model, price, stock, vat, ean?, reaconditioned?)>
+<!ATTLIST product idP ID #REQUIRED>
+
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT manufacturer (#PCDATA)>
+<!ELEMENT brand (#PCDATA)>
+<!ELEMENT model (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ATTLIST price currency (EUR | USD) #REQUIRED>
+<!ATTLIST price discount NMTOKEN "0">
+<!ELEMENT stock (#PCDATA)>
+<!ELEMENT vat (#PCDATA)>
+<!ATTLIST vat type (general | reduced | super-reduced) #REQUIRED>
+<!ELEMENT ean (#PCDATA)>
+<!ELEMENT reaconditioned EMPTY>
+
+<!ELEMENT customers (customer*)>
+<!ELEMENT customer (((firstname, surnames) | complete-name), phone*, address?)>
+<!ATTLIST customer idC ID #REQUIRED>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT surnames (#PCDATA)>
+<!ELEMENT complete-name (#PCDATA)>
+<!ELEMENT phone (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ATTLIST customer id-card NMTOKEN #REQUIRED>
+<!ATTLIST customer creation-date NMTOKEN #REQUIRED>
+
+<!ELEMENT sales (sale*)>
+<!ELEMENT sale (products-sold)>
+<!ATTLIST sale date NMTOKEN #REQUIRED>
+<!ATTLIST sale customer IDREF #REQUIRED>
+<!ELEMENT products-sold (product-item+)>
+<!ELEMENT product-item (total-price)>
+<!ATTLIST product-item ref IDREF #REQUIRED>
+<!ATTLIST product-item quantity NMTOKEN "1">
+<!ELEMENT total-price (#PCDATA)>
+<!ATTLIST total-price currency (EUR | USD) #REQUIRED>
+
+]>
+
+
+<computer_shop>
+    <products>
+    <product idP="p1">
+      <title>MSI Modern 15 H C13M-087XES Intel Core i7-13620H/32GB/1TB SSD/15.6"</title>
+      <manufacturer>MSI</manufacturer>
+      <model>15 H C13M-087XES</model>
+      <price currency="EUR" discount="10">2</price>
+      <stock>25</stock>
+      <vat type="general"/>
+      <ean>1234567890123</ean>
+      <reaconditioned />
+    </product>
+    <product idP="p2">
+      <title>Razer Cobra Ratón Gaming Chroma RGB 8500DPI Negro</title>
+      <brand>Razor</brand>
+      <model>8500DPI</model>
+      <price currency="EUR">50</price>
+      <stock>100</stock>
+      <vat type="reduced"/>
+    </product>
+  </products>
+
+  <customers>
+    <customer idC="C1" id-card="10101010" creation-date="2024-01-10">
+      <firstname>Amador</firstname>
+      <surnames>Rivas</surnames>
+      <phone>+34 295 356 344</phone>
+      <address>Ave del paraiso n7, mirador de montepinar</address>
+    </customer>
+    <customer idC="C2" id-card="01010101" creation-date="2020-02-19">
+        <firstname>Mauricio</firstname>
+        <surnames>Colmenero</surnames>
+        <phone>+34 234 456 345</phone>
+    </customer>
+  </customers>
+
+  <sales>
+    <sale date="2024-02-14" customer="C1">
+      <products-sold>
+        <product-item ref="p1" quantity="1">
+          <total-price currency="EUR">1080</total-price>
+        </product-item>
+        <product-item ref="p2">
+          <total-price currency="USD">50</total-price>  
+        </product-item>
+      </products-sold>
+    </sale>
+  </sales>
+</computer_shop>
