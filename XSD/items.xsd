@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="items">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="item" maxOccurs="unbounded" minOccurs="0">
+                    <xs:complexType>
+                        <xs:all>
+                            <xs:element name="name" type="xs:string"/>
+                            <xs:element name="photo" type="xs:string"/>
+                            <xs:element name="tags" type="xs:string"/>
+                            <xs:element name="diameter" type="xs:positiveInteger"/>
+                            <xs:element name="weight" type="xs:positiveInteger"/>
+                            <xs:element name="price" type="priceType"/>
+                            <xs:element name="size" type="sizeType" minOccurs="0"/>
+                        </xs:all>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:simpleType name="priceType">
+        <xs:restriction base="xs:decimal">
+            <xs:minExclusive value="0"/>
+            <xs:fractionDigits value="2"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="sizeType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="Big"/>
+            <xs:enumeration value="Small"/>
+            <xs:enumeration value=""/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

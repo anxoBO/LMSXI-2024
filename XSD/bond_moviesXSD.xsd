@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="bond_movies">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="movie" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="title" type="xs:string"/>
+                            <xs:element name="bond" type="xs:string"/>
+                            <xs:element name="bond_girl" type="xs:string"/>
+                            <xs:element name="regie" type="xs:string"/>
+                            <xs:element name="year" type="xs:gYear"/>
+                            <xs:element name="duration" type="xs:integer"/>                            
+                        </xs:sequence>
+                        <xs:attribute name="number" type="numberType"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            <xs:attribute name="month" type="xs:string"/>
+            <xs:attribute name="year" type="xs:string"/>
+        </xs:complexType>
+    </xs:element>
+    <xs:simpleType name="numberType">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="_[0-9]{2}"/>
+        </xs:restriction>
+    </xs:simpleType>
+
+</xs:schema>

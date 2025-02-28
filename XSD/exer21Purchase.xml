@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<purchaseOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="exer21PurchaseXSD.xsd">
+    <shipTo country="US">
+        <name>Aitor Tilla</name>
+        <street>123 Main St</street>
+        <city>New York</city>
+        <state>NY</state>
+        <zip>10001</zip>
+    </shipTo>
+    <billTo country="US">
+        <name>Paco Gerlo</name>
+        <street>456 Elm St</street>
+        <city>Los Angeles</city>
+        <state>CA</state>
+        <zip>90001</zip>
+    </billTo>
+    <comment>Dale caña manin</comment>
+    <items>
+        <item partNum="123-AB">
+            <productName>nokia 3310</productName>
+            <quantity>2</quantity>
+            <USPrice>20.99</USPrice>
+            <comment>barato y resistente</comment>
+            <shipDate>2025-03-01</shipDate>
+        </item>
+        <item partNum="456-CD">
+            <productName>Iphone 16e</productName>
+            <quantity>1</quantity>
+            <USPrice>709</USPrice>
+        </item>
+    </items>
+</purchaseOrder>

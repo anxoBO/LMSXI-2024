@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="items.xsd">
+    <item>
+        <name>Pitorro de coco</name>
+        <photo>https://pitorrazo_de_coco.com</photo>
+        <tags>drink</tags>
+        <diameter>3</diameter>
+        <weight>4</weight>
+        <price>8.99</price>
+        <size>Small</size>
+    </item>
+</items>
