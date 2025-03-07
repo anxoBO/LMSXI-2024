@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Class xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="class.xsd" class_number="23">
+    <Student>
+        <Name>
+            <First_name>Paco</First_name>
+            <Last_name>Porras</Last_name>
+        </Name>
+        <Projects>
+            <Project1>85</Project1>
+            <Project2>90</Project2>
+            <Project3>88</Project3>
+            <Project4>92</Project4>
+        </Projects>
+        <Tests>
+            <Mid-Term>89</Mid-Term>
+        </Tests>
+        <Final_grade>88</Final_grade>
+        <Total>444</Total>
+        <Final_letter_grade>F+</Final_letter_grade>
+    </Student>
+</Class>

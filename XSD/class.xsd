@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="Class">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Student" />
+            </xs:sequence>
+            <xs:attribute name="class_number" type="xs:short" use="required" />
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Final_grade" type="xs:string" />
+    <xs:element name="Final_letter_grade" type="xs:string" />
+    <xs:element name="First_name" type="xs:string" />
+    <xs:element name="Last_name" type="xs:string" />
+    <xs:element name="Mid-Term" type="xs:string" />
+    <xs:element name="Name">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="First_name" />
+                <xs:element ref="Last_name" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Project1" type="xs:string" />
+    <xs:element name="Project2" type="xs:string" />
+    <xs:element name="Project3" type="xs:string" />
+    <xs:element name="Project4" type="xs:string" />
+    <xs:element name="Projects">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Project1" />
+                <xs:element ref="Project2" />
+                <xs:element ref="Project3" />
+                <xs:element ref="Project4" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Student">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Name" />
+                <xs:element ref="Projects" />
+                <xs:element ref="Tests" />
+                <xs:element ref="Final_grade" />
+                <xs:element ref="Total" />
+                <xs:element ref="Final_letter_grade" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Tests">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Mid-Term" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Total" type="xs:string" />
+</xs:schema>   

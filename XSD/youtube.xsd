@@ -112,7 +112,7 @@
         </xs:restriction>
     </xs:simpleType>
     <xs:simpleType name="yearType">
-        <xs:restriction base="xs:positiveInteger">
+        <xs:restriction base="xs:gYear">
             <xs:maxExclusive value="2024"/>
             <xs:minExclusive value="2020"/>
         </xs:restriction>

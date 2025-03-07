@@ -1,0 +1,32 @@
+<!--
+<!DOCTYPE juicers [
+    <!ELEMENT juicers (juicer)*>
+    <!ELEMENT juicer (name, image, description, warranty?, weight?, cost+, retailer)>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT image (#PCDATA)>
+    <!ELEMENT description (#PCDATA)>
+    <!ELEMENT warranty (#PCDATA)>
+    <!ELEMENT weight (#PCDATA)>
+    <!ELEMENT cost (#PCDATA)>
+    <!ELEMENT retailer (#PCDATA)>
+]>
+-->
+
+<juicers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="juicers.xsd">
+    <juicer>
+        <name>Exprimidoneitor Destructor 5000 ineitor</name>
+        <image>C:\\Imagenes\PerfidoDoofenshmirthSL\exprimidoneitor.jpg</image>
+        <description>Este maravilloso dispositivo fue 
+        creado para exprimir toda la pulpa de cualquier 
+        fruta, dejando solo una cáscara vacía... ¡MUAHAHA! 
+        Con su tecnología de ultra presión cítrica y su sistema 
+        antirretorno de jugos, el Exprimidor-inador no solo prepara 
+        zumos frescos, sino que también drena cualquier atisbo de sabor 
+        dejando las naranjas más secas que mi infancia en el internado de 
+        Gimmelschtumpf.</description>
+        <warranty>no</warranty>
+        <weight>4.55</weight>
+        <cost>29.99</cost>
+        <retailer>yes</retailer>
+    </juicer>
+</juicers>

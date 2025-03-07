@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:simpleType name="money">
+    <xs:restriction base="xs:decimal">
+      <xs:totalDigits value="6"/>
+      <xs:fractionDigits value="2"/>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:simpleType name="imageFile">
+    <xs:restriction base="xs:anyURI">
+        <xs:pattern value="C:\\\\.*(jpeg|png|jpg)"></xs:pattern>
+    </xs:restriction>
+  </xs:simpleType>
+
+  <xs:element name="juicers">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="juicer" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:all>
+              <xs:element name="name" type="xs:string"/>
+              <xs:element name="image" type="imageFile"/>
+              <xs:element name="description" type="xs:string"/>
+              <xs:element name="warranty" type="xs:string"/>
+              <xs:element name="weight" type="xs:decimal"/>
+              <xs:element name="cost" type="money"/>
+              <xs:element name="retailer" type="xs:string"/>
+            </xs:all>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+
+</xs:schema>
