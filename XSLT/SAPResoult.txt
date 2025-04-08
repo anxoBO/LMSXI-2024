@@ -1,0 +1,1557 @@
+
+    -------
+        ID:1
+        title:Caledonian Mercury
+        DATE:1811-08-26
+    -------
+        ID:2
+        title:Glasgow Advertiser
+        DATE:1789-01-05
+    -------
+        ID:3
+        title:Glasgow Advertiser
+        DATE:1789-01-05
+    -------
+        ID:4
+        title:Glasgow Advertiser
+        DATE:1789-07-13
+    -------
+        ID:5
+        title:Glasgow Advertiser
+        DATE:1789-07-20
+    -------
+        ID:6
+        title:Glasgow Advertiser
+        DATE:1789-07-20
+    -------
+        ID:7
+        title:Glasgow Advertiser
+        DATE:1789-07-20
+    -------
+        ID:8
+        title:Glasgow Advertiser
+        DATE:1789-07-06
+    -------
+        ID:9
+        title:Glasgow Advertiser
+        DATE:1789-08-21
+    -------
+        ID:10
+        title:Glasgow Advertiser
+        DATE:1789-08-21
+    -------
+        ID:11
+        title:Glasgow Advertiser
+        DATE:1789-08-24
+    -------
+        ID:12
+        title:Glasgow Advertiser
+        DATE:1789-08-24
+    -------
+        ID:13
+        title:Glasgow Advertiser
+        DATE:1789-08-28
+    -------
+        ID:14
+        title:Glasgow Advertiser
+        DATE:1789-08-28
+    -------
+        ID:15
+        title:Glasgow Advertiser
+        DATE:1789-08-03
+    -------
+        ID:16
+        title:Glasgow Advertiser
+        DATE:1789-08-31
+    -------
+        ID:17
+        title:Glasgow Advertiser
+        DATE:1789-08-07
+    -------
+        ID:18
+        title:Glasgow Advertiser
+        DATE:1789-09-21
+    -------
+        ID:19
+        title:Glasgow Advertiser
+        DATE:1789-10-02
+    -------
+        ID:20
+        title:Glasgow Advertiser
+        DATE:1789-10-09
+    -------
+        ID:21
+        title:Glasgow Advertiser
+        DATE:1789-10-09
+    -------
+        ID:22
+        title:Glasgow Advertiser
+        DATE:1789-10-09
+    -------
+        ID:23
+        title:Glasgow Advertiser
+        DATE:1789-10-09
+    -------
+        ID:24
+        title:Glasgow Advertiser
+        DATE:1789-10-09
+    -------
+        ID:25
+        title:Glasgow Advertiser
+        DATE:1789-11-20
+    -------
+        ID:26
+        title:Glasgow Advertiser
+        DATE:1789-11-23
+    -------
+        ID:28
+        title:Glasgow Advertiser
+        DATE:1789-11-23
+    -------
+        ID:29
+        title:Glasgow Advertiser
+        DATE:1789-11-23
+    -------
+        ID:31
+        title:Glasgow Advertiser
+        DATE:1789-11-27
+    -------
+        ID:32
+        title:Glasgow Advertiser
+        DATE:1789-12-11
+    -------
+        ID:33
+        title:Glasgow Advertiser
+        DATE:1789-12-11
+    -------
+        ID:34
+        title:Glasgow Advertiser
+        DATE:1789-12-11
+    -------
+        ID:35
+        title:Glasgow Advertiser
+        DATE:1789-12-14
+    -------
+        ID:36
+        title:Glasgow Advertiser
+        DATE:1789-12-14
+    -------
+        ID:37
+        title:Glasgow Advertiser
+        DATE:1789-12-14
+    -------
+        ID:38
+        title:Glasgow Advertiser
+        DATE:1789-12-14
+    -------
+        ID:40
+        title:Glasgow Advertiser
+        DATE:1789-12-14
+    -------
+        ID:41
+        title:Glasgow Advertiser
+        DATE:1789-12-14
+    -------
+        ID:42
+        title:Glasgow Advertiser
+        DATE:1789-12-14
+    -------
+        ID:43
+        title:Glasgow Advertiser
+        DATE:1789-12-18
+    -------
+        ID:44
+        title:Glasgow Advertiser
+        DATE:1789-12-18
+    -------
+        ID:45
+        title:Glasgow Advertiser
+        DATE:1789-12-18
+    -------
+        ID:46
+        title:Glasgow Advertiser
+        DATE:1789-12-18
+    -------
+        ID:47
+        title:Glasgow Advertiser
+        DATE:1789-12-18
+    -------
+        ID:48
+        title:Glasgow Advertiser
+        DATE:1789-12-18
+    -------
+        ID:49
+        title:Glasgow Advertiser
+        DATE:1789-12-21
+    -------
+        ID:50
+        title:Glasgow Advertiser
+        DATE:1789-12-21
+    -------
+        ID:51
+        title:Glasgow Advertiser
+        DATE:1789-12-25
+    -------
+        ID:52
+        title:Glasgow Advertiser
+        DATE:1789-12-25
+    -------
+        ID:53
+        title:Glasgow Advertiser
+        DATE:1789-12-04
+    -------
+        ID:54
+        title:Glasgow Advertiser
+        DATE:1789-12-04
+    -------
+        ID:55
+        title:Glasgow Advertiser
+        DATE:1789-12-07
+    -------
+        ID:56
+        title:Glasgow Advertiser
+        DATE:1789-12-07
+    -------
+        ID:57
+        title:Glasgow Advertiser
+        DATE:1789-12-07
+    -------
+        ID:58
+        title:Glasgow Advertiser
+        DATE:1789-12-07
+    -------
+        ID:59
+        title:Glasgow Advertiser
+        DATE:1790-01-01
+    -------
+        ID:60
+        title:Glasgow Advertiser
+        DATE:1790-01-04
+    -------
+        ID:61
+        title:Glasgow Advertiser
+        DATE:1790-01-04
+    -------
+        ID:62
+        title:Glasgow Advertiser
+        DATE:1790-01-04
+    -------
+        ID:63
+        title:Glasgow Advertiser
+        DATE:1790-01-04
+    -------
+        ID:64
+        title:Glasgow Advertiser
+        DATE:1790-04-16
+    -------
+        ID:65
+        title:Glasgow Advertiser
+        DATE:1790-07-12
+    -------
+        ID:67
+        title:Glasgow Advertiser
+        DATE:1790-07-12
+    -------
+        ID:68
+        title:Glasgow Advertiser
+        DATE:1790-07-09
+    -------
+        ID:69
+        title:Glasgow Advertiser
+        DATE:1790-08-16
+    -------
+        ID:70
+        title:Glasgow Advertiser
+        DATE:1790-09-17
+    -------
+        ID:71
+        title:Glasgow Advertiser
+        DATE:1790-10-04
+    -------
+        ID:72
+        title:Glasgow Advertiser
+        DATE:1790-11-15
+    -------
+        ID:73
+        title:Glasgow Advertiser
+        DATE:1790-11-19
+    -------
+        ID:74
+        title:Glasgow Advertiser
+        DATE:1790-11-19
+    -------
+        ID:76
+        title:Glasgow Advertiser
+        DATE:1790-11-22
+    -------
+        ID:78
+        title:Glasgow Advertiser
+        DATE:1790-11-26
+    -------
+        ID:80
+        title:Glasgow Advertiser
+        DATE:1790-11-26
+    -------
+        ID:81
+        title:Glasgow Advertiser
+        DATE:1790-11-29
+    -------
+        ID:82
+        title:Glasgow Advertiser
+        DATE:1790-11-29
+    -------
+        ID:84
+        title:Glasgow Advertiser
+        DATE:1790-11-08
+    -------
+        ID:85
+        title:Glasgow Advertiser
+        DATE:1790-12-13
+    -------
+        ID:86
+        title:Glasgow Advertiser
+        DATE:1790-02-01
+    -------
+        ID:87
+        title:Glasgow Advertiser
+        DATE:1791-05-23
+    -------
+        ID:89
+        title:Glasgow Advertiser
+        DATE:1792-04-23
+    -------
+        ID:90
+        title:Glasgow Advertiser
+        DATE:1792-04-23
+    -------
+        ID:91
+        title:Glasgow Advertiser
+        DATE:1792-08-06
+    -------
+        ID:92
+        title:Glasgow Advertiser
+        DATE:1793-01-14
+    -------
+        ID:93
+        title:Glasgow Advertiser
+        DATE:1793-07-22
+    -------
+        ID:94
+        title:Glasgow Advertiser
+        DATE:1793-07-22
+    -------
+        ID:95
+        title:Glasgow Advertiser
+        DATE:1793-07-29
+    -------
+        ID:96
+        title:Glasgow Advertiser
+        DATE:1793-10-07
+    -------
+        ID:99
+        title:Glasgow Advertiser
+        DATE:1794-02-10
+    -------
+        ID:100
+        title:Glasgow Advertiser
+        DATE:1794-02-14
+    -------
+        ID:101
+        title:Glasgow Advertiser
+        DATE:1794-02-07
+    -------
+        ID:102
+        title:Caledonian Mercury
+        DATE:1802-07-01
+    -------
+        ID:103
+        title:Caledonian Mercury
+        DATE:1810-06-09
+    -------
+        ID:104
+        title:Caledonian Mercury
+        DATE:1812-08-29
+    -------
+        ID:105
+        title:Caledonian Mercury
+        DATE:1812-10-03
+    -------
+        ID:106
+        title:Caledonian Mercury
+        DATE:1812-10-03
+    -------
+        ID:107
+        title:Caledonian Mercury
+        DATE:1812-11-09
+    -------
+        ID:108
+        title:Caledonian Mercury
+        DATE:1813-10-16
+    -------
+        ID:109
+        title:Caledonian Mercury
+        DATE:1813-10-07
+    -------
+        ID:110
+        title:Caledonian Mercury
+        DATE:1813-12-30
+    -------
+        ID:111
+        title:Caledonian Mercury
+        DATE:1814-03-19
+    -------
+        ID:112
+        title:Caledonian Mercury
+        DATE:1814-05-26
+    -------
+        ID:113
+        title:Caledonian Mercury
+        DATE:1814-09-12
+    -------
+        ID:114
+        title:Caledonian Mercury
+        DATE:1814-10-15
+    -------
+        ID:115
+        title:Caledonian Mercury
+        DATE:1814-10-15
+    -------
+        ID:116
+        title:Caledonian Mercury
+        DATE:1814-12-08
+    -------
+        ID:117
+        title:Caledonian Mercury
+        DATE:1816-01-15
+    -------
+        ID:118
+        title:Caledonian Mercury
+        DATE:1816-07-08
+    -------
+        ID:119
+        title:Caledonian Mercury
+        DATE:1816-11-21
+    -------
+        ID:120
+        title:Aberdeen Journal
+        DATE:1816-12-16
+    -------
+        ID:121
+        title:Caledonian Mercury
+        DATE:1817-07-21
+    -------
+        ID:122
+        title:Caledonian Mercury
+        DATE:1818-01-01
+    -------
+        ID:123
+        title:Caledonian Mercury
+        DATE:1818-01-19
+    -------
+        ID:124
+        title:Caledonian Mercury
+        DATE:1818-01-19
+    -------
+        ID:125
+        title:Caledonian Mercury
+        DATE:1818-01-19
+    -------
+        ID:126
+        title:Aberdeen Journal
+        DATE:1818-01-28
+    -------
+        ID:127
+        title:Caledonian Mercury
+        DATE:1818-07-16
+    -------
+        ID:128
+        title:Caledonian Mercury
+        DATE:1818-07-04
+    -------
+        ID:129
+        title:Caledonian Mercury
+        DATE:1818-09-05
+    -------
+        ID:130
+        title:Caledonian Mercury
+        DATE:1818-12-28
+    -------
+        ID:131
+        title:Caledonian Mercury
+        DATE:1818-02-26
+    -------
+        ID:132
+        title:Scotsman
+        DATE:1818-02-28
+    -------
+        ID:133
+        title:Aberdeen Journal
+        DATE:1819-10-13
+    -------
+        ID:134
+        title:Caledonian Mercury
+        DATE:1819-01-02
+    -------
+        ID:135
+        title:Aberdeen Journal
+        DATE:1819-01-20
+    -------
+        ID:136
+        title:Caledonian Mercury
+        DATE:1819-01-04
+    -------
+        ID:137
+        title:Caledonian Mercury
+        DATE:1819-03-29
+    -------
+        ID:138
+        title:Aberdeen Journal
+        DATE:1819-04-28
+    -------
+        ID:139
+        title:Scotsman
+        DATE:1819-05-01
+    -------
+        ID:140
+        title:Aberdeen Journal
+        DATE:1819-05-26
+    -------
+        ID:141
+        title:Caledonian Mercury
+        DATE:1819-05-27
+    -------
+        ID:142
+        title:Caledonian Mercury
+        DATE:1819-05-27
+    -------
+        ID:143
+        title:Caledonian Mercury
+        DATE:1819-05-07
+    -------
+        ID:144
+        title:Aberdeen Journal
+        DATE:1819-06-02
+    -------
+        ID:145
+        title:Caledonian Mercury
+        DATE:1819-06-28
+    -------
+        ID:146
+        title:Caledonian Mercury
+        DATE:1819-06-28
+    -------
+        ID:147
+        title:Caledonian Mercury
+        DATE:1819-07-22
+    -------
+        ID:148
+        title:Aberdeen Journal
+        DATE:1819-07-28
+    -------
+        ID:149
+        title:Aberdeen Journal
+        DATE:1819-07-28
+    -------
+        ID:150
+        title:Aberdeen Journal
+        DATE:1819-07-07
+    -------
+        ID:151
+        title:Caledonian Mercury
+        DATE:1819-08-16
+    -------
+        ID:152
+        title:Aberdeen Journal
+        DATE:1819-08-25
+    -------
+        ID:153
+        title:Aberdeen Journal
+        DATE:1819-09-22
+    -------
+        ID:154
+        title:Caledonian Mercury
+        DATE:1819-10-11
+    -------
+        ID:155
+        title:Aberdeen Journal
+        DATE:1819-10-27
+    -------
+        ID:156
+        title:Aberdeen Journal
+        DATE:1819-11-10
+    -------
+        ID:157
+        title:Caledonian Mercury
+        DATE:1819-02-15
+    -------
+        ID:158
+        title:Caledonian Mercury
+        DATE:1820-01-13
+    -------
+        ID:159
+        title:Caledonian Mercury
+        DATE:1820-01-24
+    -------
+        ID:160
+        title:Scotsman
+        DATE:1820-01-29
+    -------
+        ID:161
+        title:Scotsman
+        DATE:1820-01-08
+    -------
+        ID:162
+        title:Glasgow Herald
+        DATE:1820-04-24
+    -------
+        ID:163
+        title:Caledonian Mercury
+        DATE:1820-04-24
+    -------
+        ID:164
+        title:Scotsman
+        DATE:1820-05-20
+    -------
+        ID:165
+        title:Glasgow Herald
+        DATE:1820-05-22
+    -------
+        ID:166
+        title:Caledonian Mercury
+        DATE:1820-06-17
+    -------
+        ID:167
+        title:Caledonian Mercury
+        DATE:1820-07-01
+    -------
+        ID:168
+        title:Aberdeen Journal
+        DATE:1820-07-12
+    -------
+        ID:169
+        title:Aberdeen Journal
+        DATE:1820-07-12
+    -------
+        ID:170
+        title:Aberdeen Journal
+        DATE:1820-07-12
+    -------
+        ID:171
+        title:Aberdeen Journal
+        DATE:1820-07-19
+    -------
+        ID:172
+        title:Aberdeen Journal
+        DATE:1820-08-02
+    -------
+        ID:173
+        title:Aberdeen Journal
+        DATE:1821-01-17
+    -------
+        ID:174
+        title:Scotsman
+        DATE:1821-01-26
+    -------
+        ID:175
+        title:Aberdeen Journal
+        DATE:1821-01-31
+    -------
+        ID:176
+        title:Aberdeen Journal
+        DATE:1821-03-14
+    -------
+        ID:177
+        title:Glasgow Herald
+        DATE:1821-03-30
+    -------
+        ID:178
+        title:Caledonian Mercury
+        DATE:1821-05-03
+    -------
+        ID:179
+        title:Scotsman
+        DATE:1821-06-02
+    -------
+        ID:180
+        title:Aberdeen Journal
+        DATE:1821-06-27
+    -------
+        ID:181
+        title:Caledonian Mercury
+        DATE:1821-06-09
+    -------
+        ID:182
+        title:Caledonian Mercury
+        DATE:1821-07-16
+    -------
+        ID:183
+        title:Aberdeen Journal
+        DATE:1821-08-15
+    -------
+        ID:184
+        title:Aberdeen Journal
+        DATE:1821-10-17
+    -------
+        ID:185
+        title:Aberdeen Journal
+        DATE:1821-11-07
+    -------
+        ID:186
+        title:Glasgow Herald
+        DATE:1821-02-05
+    -------
+        ID:187
+        title:Glasgow Herald
+        DATE:1822-01-28
+    -------
+        ID:188
+        title:Scotsman
+        DATE:1822-10-19
+    -------
+        ID:189
+        title:Scotsman
+        DATE:1822-10-19
+    -------
+        ID:190
+        title:Scotsman
+        DATE:1823-06-14
+    -------
+        ID:191
+        title:Scotsman
+        DATE:1823-09-10
+    -------
+        ID:192
+        title:Scotsman
+        DATE:1823-09-03
+    -------
+        ID:193
+        title:Scotsman
+        DATE:1824-05-05
+    -------
+        ID:194
+        title:Scotsman
+        DATE:1824-01-21
+    -------
+        ID:195
+        title:Scotsman
+        DATE:1824-01-31
+    -------
+        ID:196
+        title:Scotsman
+        DATE:1824-03-27
+    -------
+        ID:197
+        title:Scotsman
+        DATE:1824-03-06
+    -------
+        ID:198
+        title:Scotsman
+        DATE:1824-04-03
+    -------
+        ID:199
+        title:Scotsman
+        DATE:1824-05-12
+    -------
+        ID:200
+        title:Scotsman
+        DATE:1824-06-09
+    -------
+        ID:201
+        title:Scotsman
+        DATE:1824-08-25
+    -------
+        ID:202
+        title:Scotsman
+        DATE:1824-02-11
+    -------
+        ID:203
+        title:Scotsman
+        DATE:1824-02-28
+    -------
+        ID:204
+        title:Scotsman
+        DATE:1825-10-19
+    -------
+        ID:205
+        title:Scotsman
+        DATE:1827-03-03
+    -------
+        ID:206
+        title:Scotsman
+        DATE:1828-04-02
+    -------
+        ID:207
+        title:Scotsman
+        DATE:1828-05-07
+    -------
+        ID:208
+        title:Scotsman
+        DATE:1828-06-25
+    -------
+        ID:209
+        title:Scotsman
+        DATE:1828-08-09
+    -------
+        ID:210
+        title:Scotsman
+        DATE:1828-12-24
+    -------
+        ID:211
+        title:Scotsman
+        DATE:1829-05-20
+    -------
+        ID:212
+        title:Scotsman
+        DATE:1829-06-10
+    -------
+        ID:213
+        title:Scotsman
+        DATE:1829-07-25
+    -------
+        ID:214
+        title:Scotsman
+        DATE:1829-08-19
+    -------
+        ID:215
+        title:Scotsman
+        DATE:1829-11-04
+    -------
+        ID:216
+        title:Scotsman
+        DATE:1830-04-24
+    -------
+        ID:217
+        title:Scotsman
+        DATE:1830-10-09
+    -------
+        ID:218
+        title:Scotsman
+        DATE:1830-11-10
+    -------
+        ID:219
+        title:Scotsman
+        DATE:1831-06-29
+    -------
+        ID:220
+        title:Scotsman
+        DATE:1831-06-04
+    -------
+        ID:221
+        title:Scotsman
+        DATE:1831-07-27
+    -------
+        ID:222
+        title:Scotsman
+        DATE:1831-12-17
+    -------
+        ID:223
+        title:Scotsman
+        DATE:1831-02-05
+    -------
+        ID:224
+        title:Scotsman
+        DATE:1832-03-03
+    -------
+        ID:225
+        title:Scotsman
+        DATE:1832-04-07
+    -------
+        ID:226
+        title:Scotsman
+        DATE:1832-10-13
+    -------
+        ID:227
+        title:Scotsman
+        DATE:1833-05-29
+    -------
+        ID:228
+        title:Scotsman
+        DATE:1833-06-29
+    -------
+        ID:229
+        title:Scotsman
+        DATE:1833-07-10
+    -------
+        ID:230
+        title:Scotsman
+        DATE:1833-08-03
+    -------
+        ID:231
+        title:Scotsman
+        DATE:1833-08-07
+    -------
+        ID:232
+        title:Scotsman
+        DATE:1833-09-25
+    -------
+        ID:233
+        title:Scotsman
+        DATE:1833-10-05
+    -------
+        ID:234
+        title:Scotsman
+        DATE:1833-12-07
+    -------
+        ID:235
+        title:Scotsman
+        DATE:1833-02-02
+    -------
+        ID:236
+        title:Scotsman
+        DATE:1833-02-02
+    -------
+        ID:237
+        title:Scotsman
+        DATE:1834-04-16
+    -------
+        ID:238
+        title:Scotsman
+        DATE:1834-06-18
+    -------
+        ID:239
+        title:Scotsman
+        DATE:1834-06-28
+    -------
+        ID:240
+        title:Scotsman
+        DATE:1834-07-02
+    -------
+        ID:241
+        title:Scotsman
+        DATE:1834-07-23
+    -------
+        ID:242
+        title:Scotsman
+        DATE:1834-07-05
+    -------
+        ID:243
+        title:Scotsman
+        DATE:1834-08-02
+    -------
+        ID:244
+        title:Scotsman
+        DATE:1834-09-24
+    -------
+        ID:245
+        title:Scotsman
+        DATE:1834-11-11
+    -------
+        ID:246
+        title:Scotsman
+        DATE:1834-11-08
+    -------
+        ID:247
+        title:Scotsman
+        DATE:1835-05-13
+    -------
+        ID:248
+        title:Scotsman
+        DATE:1835-07-08
+    -------
+        ID:249
+        title:Scotsman
+        DATE:1835-08-05
+    -------
+        ID:250
+        title:Scotsman
+        DATE:1835-08-05
+    -------
+        ID:251
+        title:Scotsman
+        DATE:1835-09-16
+    -------
+        ID:252
+        title:Scotsman
+        DATE:1835-11-21
+    -------
+        ID:253
+        title:Scotsman
+        DATE:1836-03-12
+    -------
+        ID:254
+        title:Scotsman
+        DATE:1836-03-12
+    -------
+        ID:255
+        title:Scotsman
+        DATE:1836-03-26
+    -------
+        ID:256
+        title:Scotsman
+        DATE:1836-04-16
+    -------
+        ID:257
+        title:Scotsman
+        DATE:1836-04-09
+    -------
+        ID:258
+        title:Scotsman
+        DATE:1836-05-18
+    -------
+        ID:259
+        title:Scotsman
+        DATE:1836-07-16
+    -------
+        ID:260
+        title:Scotsman
+        DATE:1836-07-16
+    -------
+        ID:261
+        title:Scotsman
+        DATE:1836-07-06
+    -------
+        ID:262
+        title:Scotsman
+        DATE:1836-08-10
+    -------
+        ID:263
+        title:Scotsman
+        DATE:1836-08-10
+    -------
+        ID:264
+        title:Scotsman
+        DATE:1836-10-26
+    -------
+        ID:265
+        title:Scotsman
+        DATE:1836-12-07
+    -------
+        ID:266
+        title:Scotsman
+        DATE:1837-05-10
+    -------
+        ID:267
+        title:Scotsman
+        DATE:1837-06-07
+    -------
+        ID:268
+        title:Scotsman
+        DATE:1837-07-01
+    -------
+        ID:269
+        title:Scotsman
+        DATE:1837-07-09
+    -------
+        ID:270
+        title:Scotsman
+        DATE:1837-11-22
+    -------
+        ID:271
+        title:Scotsman
+        DATE:1838-06-09
+    -------
+        ID:272
+        title:Scotsman
+        DATE:1838-09-22
+    -------
+        ID:273
+        title:Scotsman
+        DATE:1838-09-22
+    -------
+        ID:274
+        title:Scotsman
+        DATE:1838-11-24
+    -------
+        ID:275
+        title:Scotsman
+        DATE:1839-04-10
+    -------
+        ID:276
+        title:Scotsman
+        DATE:1839-04-03
+    -------
+        ID:277
+        title:Scotsman
+        DATE:1839-05-11
+    -------
+        ID:278
+        title:Scotsman
+        DATE:1839-06-05
+    -------
+        ID:279
+        title:Scotsman
+        DATE:1839-07-10
+    -------
+        ID:280
+        title:Scotsman
+        DATE:1839-07-24
+    -------
+        ID:281
+        title:Scotsman
+        DATE:1839-07-25
+    -------
+        ID:282
+        title:Scotsman
+        DATE:1839-07-27
+    -------
+        ID:283
+        title:Scotsman
+        DATE:1839-07-27
+    -------
+        ID:284
+        title:Scotsman
+        DATE:1839-07-06
+    -------
+        ID:285
+        title:Scotsman
+        DATE:1839-08-28
+    -------
+        ID:286
+        title:Scotsman
+        DATE:1839-09-11
+    -------
+        ID:287
+        title:Scotsman
+        DATE:1839-09-28
+    -------
+        ID:288
+        title:Scotsman
+        DATE:1839-11-23
+    -------
+        ID:289
+        title:Scotsman
+        DATE:1839-11-24
+    -------
+        ID:290
+        title:Scotsman
+        DATE:1840-04-18
+    -------
+        ID:291
+        title:Scotsman
+        DATE:1840-05-13
+    -------
+        ID:292
+        title:Scotsman
+        DATE:1840-07-29
+    -------
+        ID:293
+        title:Scotsman
+        DATE:1840-08-12
+    -------
+        ID:294
+        title:Scotsman
+        DATE:1840-08-15
+    -------
+        ID:295
+        title:Scotsman
+        DATE:1840-10-28
+    -------
+        ID:296
+        title:Scotsman
+        DATE:1840-12-05
+    -------
+        ID:297
+        title:Scotsman
+        DATE:1841-03-20
+    -------
+        ID:298
+        title:Scotsman
+        DATE:1841-03-31
+    -------
+        ID:299
+        title:Scotsman
+        DATE:1841-04-14
+    -------
+        ID:300
+        title:Scotsman
+        DATE:1841-04-07
+    -------
+        ID:301
+        title:Scotsman
+        DATE:1841-09-22
+    -------
+        ID:302
+        title:Scotsman
+        DATE:1841-10-09
+    -------
+        ID:304
+        title:Scotsman
+        DATE:1841-11-17
+    -------
+        ID:305
+        title:Scotsman
+        DATE:1841-11-24
+    -------
+        ID:306
+        title:Scotsman
+        DATE:1841-12-22
+    -------
+        ID:307
+        title:Scotsman
+        DATE:1841-12-25
+    -------
+        ID:308
+        title:Scotsman
+        DATE:1841-12-29
+    -------
+        ID:309
+        title:Scotsman
+        DATE:1841-12-29
+    -------
+        ID:310
+        title:Scotsman
+        DATE:1841-02-17
+    -------
+        ID:311
+        title:Scotsman
+        DATE:1842-03-19
+    -------
+        ID:312
+        title:Scotsman
+        DATE:1842-05-18
+    -------
+        ID:313
+        title:Scotsman
+        DATE:1842-02-05
+    -------
+        ID:314
+        title:Glasgow Advertiser
+        DATE:1790-11-01
+    -------
+        ID:315
+        title:Glasgow Advertiser
+        DATE:1790-11-01
+    -------
+        ID:316
+        title:Glasgow Advertiser
+        DATE:1793-01-07
+    -------
+        ID:317
+        title:Glasgow Advertiser
+        DATE:1792-04-27
+    -------
+        ID:318
+        title:Glasgow Advertiser
+        DATE:1791-06-27
+    -------
+        ID:319
+        title:Glasgow Advertiser
+        DATE:1791-05-02
+    -------
+        ID:320
+        title:Glasgow Advertiser
+        DATE:1791-03-04
+    -------
+        ID:321
+        title:Glasgow Advertiser
+        DATE:1790-11-05
+    -------
+        ID:322
+        title:Glasgow Advertiser
+        DATE:1790-11-08
+    -------
+        ID:323
+        title:Glasgow Advertiser
+        DATE:1791-11-08
+    -------
+        ID:324
+        title:Glasgow Advertiser
+        DATE:1791-01-21
+    -------
+        ID:326
+        title:Glasgow Advertiser
+        DATE:1790-09-20
+    -------
+        ID:327
+        title:Glasgow Advertiser
+        DATE:1791-02-07
+    -------
+        ID:328
+        title:Glasgow Advertiser
+        DATE:1791-01-21
+    -------
+        ID:329
+        title:Glasgow Advertiser
+        DATE:1791-01-31
+    -------
+        ID:330
+        title:Glasgow Advertiser
+        DATE:1791-01-07
+    -------
+        ID:331
+        title:Glasgow Advertiser
+        DATE:1791-07-18
+    -------
+        ID:332
+        title:Glasgow Advertiser
+        DATE:1792-06-25
+    -------
+        ID:333
+        title:Glasgow Advertiser
+        DATE:1791-06-24
+    -------
+        ID:334
+        title:Glasgow Advertiser
+        DATE:1791-01-10
+    -------
+        ID:335
+        title:Glasgow Advertiser
+        DATE:1791-05-09
+    -------
+        ID:336
+        title:Glasgow Advertiser
+        DATE:1791-05-13
+    -------
+        ID:337
+        title:Glasgow Advertiser
+        DATE:1792-04-20
+    -------
+        ID:338
+        title:Glasgow Advertiser
+        DATE:1792-04-23
+    -------
+        ID:339
+        title:Glasgow Advertiser
+        DATE:1792-04-16
+    -------
+        ID:340
+        title:Glasgow Advertiser
+        DATE:1790-06-21
+    -------
+        ID:341
+        title:Glasgow Advertiser
+        DATE:1790-02-22
+    -------
+        ID:97
+        title:Glasgow Advertiser
+        DATE:1794-09-12
+    -------
+        ID:342
+        title:Glasgow Advertiser
+        DATE:1790-07-12
+    -------
+        ID:343
+        title:Glasgow Advertiser
+        DATE:1790-06-18
+    -------
+        ID:344
+        title:Glasgow Advertiser
+        DATE:1790-05-17
+    -------
+        ID:345
+        title:Glasgow Advertiser
+        DATE:1790-05-24
+    -------
+        ID:346
+        title:Glasgow Advertiser
+        DATE:1790-10-04
+    -------
+        ID:347
+        title:Glasgow Advertiser
+        DATE:1791-02-21
+    -------
+        ID:348
+        title:Glasgow Advertiser
+        DATE:1791-02-21
+    -------
+        ID:349
+        title:Glasgow Advertiser
+        DATE:1791-07-25
+    -------
+        ID:351
+        title:Glasgow Advertiser
+        DATE:1792-08-17
+    -------
+        ID:352
+        title:Glasgow Advertiser
+        DATE:1792-08-20
+    -------
+        ID:353
+        title:Glasgow Advertiser
+        DATE:1792-12-14
+    -------
+        ID:354
+        title:Glasgow Advertiser
+        DATE:1792-10-08
+    -------
+        ID:356
+        title:Glasgow Advertiser
+        DATE:1793-08-30
+    -------
+        ID:357
+        title:Caledonian Mercury
+        DATE:1817-01-06
+    -------
+        ID:358
+        title:Aberdeen Journal
+        DATE:1817-01-08
+    -------
+        ID:359
+        title:Sydney Gazette
+        DATE:1815-11-08
+    -------
+        ID:360
+        title:Morning Chronicle
+        DATE:1817-01-03
+    -------
+        ID:361
+        title:London Times
+        DATE:1817-01-02
+    -------
+        ID:362
+        title:London Star
+        DATE:1817-01-01
+    -------
+        ID:363
+        title:London Courier
+        DATE:1817-01-02
+    -------
+        ID:364
+        title:London St James Chronicle and Evening Post
+        DATE:1817-01-02
+    -------
+        ID:365
+        title:Glasgow Advertiser
+        DATE:1793-08-30
+    -------
+        ID:366
+        title:Glasgow Advertiser
+        DATE:1794-01-24
+    -------
+        ID:367
+        title:Glasgow Herald
+        DATE:1822-01-28
+    -------
+        ID:368
+        title:Glasgow Advertiser
+        DATE:1794-07-25
+    -------
+        ID:369
+        title:Glasgow Advertiser
+        DATE:1793-01-11
+    -------
+        ID:370
+        title:Glasgow Advertiser
+        DATE:1792-09-17
+    -------
+        ID:371
+        title:Glasgow Advertiser
+        DATE:1793-12-13
+    -------
+        ID:372
+        title:Glasgow Advertiser
+        DATE:1794-01-06
+    -------
+        ID:373
+        title:Glasgow Advertiser
+        DATE:1794-01-27
+    -------
+        ID:374
+        title:Glasgow Advertiser
+        DATE:1794-07-18
+    -------
+        ID:375
+        title:Glasgow Advertiser
+        DATE:1794-07-21
+    -------
+        ID:376
+        title:Glasgow Advertiser
+        DATE:1794-07-11
+    -------
+        ID:377
+        title:Glasgow Advertiser
+        DATE:1794-07-18
+    -------
+        ID:378
+        title:Glasgow Advertiser
+        DATE:1794-11-17
+    -------
+        ID:379
+        title:Trewman's Exeter Flying Post
+        DATE:1810-01-11
+    -------
+        ID:380
+        title:Examiner
+        DATE:1810-01-17
+    -------
+        ID:381
+        title:Morning Chronicle
+        DATE:1810-01-06
+    -------
+        ID:382
+        title:Glasgow Advertiser
+        DATE:1789-09-28
+    -------
+        ID:383
+        title:Glasgow Advertiser
+        DATE:1789-09-28
+    -------
+        ID:384
+        title:Glasgow Advertiser
+        DATE:1789-09-28
+    -------
+        ID:385
+        title:Glasgow Advertiser
+        DATE:1789-11-27
+    -------
+        ID:386
+        title:Glasgow Advertiser
+        DATE:1789-11-13
+    -------
+        ID:387
+        title:Glasgow Advertiser
+        DATE:1789-09-07
+    -------
+        ID:388
+        title:Glasgow Advertiser
+        DATE:1789-09-07
+    -------
+        ID:389
+        title:Glasgow Advertiser
+        DATE:1789-01-01
+    -------
+        ID:390
+        title:Glasgow Advertiser
+        DATE:1789-09-02
+    -------
+        ID:391
+        title:Glasgow Advertiser
+        DATE:1789-09-23
+    -------
+        ID:392
+        title:Glasgow Advertiser
+        DATE:1789-09-25
+    -------
+        ID:393
+        title:Glasgow Advertiser
+        DATE:1789-09-25
+    -------
+        ID:394
+        title:Glasgow Advertiser
+        DATE:1789-09-25
+    -------
+        ID:395
+        title:Glasgow Advertiser
+        DATE:1789-09-21
+    -------
+        ID:396
+        title:Glasgow Advertiser
+        DATE:1789-09-21
+    -------
+        ID:397
+        title:Glasgow Advertiser
+        DATE:1790-11-19
+    -------
+        ID:398
+        title:Glasgow Advertiser
+        DATE:1790-11-15
+    -------
+        ID:399
+        title:Glasgow Advertiser
+        DATE:1792-08-13
+    -------
+        ID:400
+        title:Glasgow Advertiser
+        DATE:1790-11-15
+    -------
+        ID:401
+        title:Glasgow Advertiser
+        DATE:1790-11-12
+    -------
+        ID:402
+        title:Glasgow Advertiser
+        DATE:1792-08-13
+    -------
+        ID:403
+        title:Glasgow Advertiser
+        DATE:1790-11-08

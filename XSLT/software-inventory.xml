@@ -1,0 +1,16 @@
+<inventory>
+    <product code="p1">
+        <weight unit="kg">10</weight>
+        <name>Computer</name>
+        <location building="B">
+            <classroom>10</classroom>
+        </location>
+    </product>
+    <product code="p2">
+        <weight unit="g">500</weight>
+        <name>Switch</name>
+        <location building="A">
+            <classroom>6</classroom>
+        </location>
+    </product>
+</inventory>
