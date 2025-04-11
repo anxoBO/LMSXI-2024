@@ -1,0 +1,28 @@
+<catalog>
+    <book isbn="978-8491214885">
+        <title>Follas novas</title>
+        <authors>
+            <author birthDate="1837">Rosalía de Castro</author>
+        </authors>
+    </book>
+    <book isbn="978-8412456219">
+        <title>Pequeno álbum de Nova York en inverno</title>
+        <authors>
+            <author birthDate="1987">Berta Dávila Fernández</author>
+            <author birthDate="1977">Carlos Meixide</author>
+        </authors>
+    </book>
+    <book isbn="978-8411105996">
+        <title>A falsa autónoma</title>
+        <authors>
+            <author birthDate="1977">Yolanda Castaño</author>
+        </authors>
+    </book>
+    <book isbn=" 978-8485220151">
+        <title>Un ollo de vidro. Memorias dun esquelete</title>
+        <authors>
+            <author birthDate="1886">Alfonso Daniel Rodríguez Castelao</author>
+        </authors>
+    </book>
+</catalog>
+    
