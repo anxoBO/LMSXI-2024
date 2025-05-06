@@ -1,0 +1,47 @@
+use('anxobo');
+
+/*
+db.persons.insertMany([
+    {
+        "first-name":"Meffrottoen",
+        "surnames":"Tuttetamen",
+        "nationality":"Finland",
+    },
+    {
+        "first-name":"Elric",
+        "surnames":"Onabo",
+        "age":25
+    },
+    {
+        "first-name":"Laërec",
+        "surnames":"Zion",
+        "age":30,
+        "nationality":"Moldova"
+    },
+    {
+        "first-name":"Guiuseppe",
+        "surnames":"Nelargo",
+        "age":29
+    },
+    {
+        "first-name":"Yofoyo",
+        "surnames":"Poko",
+        "age":22,
+        "nationality":"Japan"    
+    },
+    {    
+        "first-name":"Tomastor",
+        "surnames":"vaov",
+        "nationality":"Russia"
+    },
+    {
+        "first-name":"Yotoko",
+        "surnames":"tutoto",
+        "age":24
+    }
+    ])
+
+db.getCollection('persons').find({"firts-name":"Meffrottoen"}).pretty();
+db.getCollection('persons').find({},{"_id":0,"first-name":1});
+db.getCollection('persons').find({"age":{"$gt":25}},{"_id":0})*/
+db.getCollection('persons').distinct("first-name").sort();
